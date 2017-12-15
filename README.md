@@ -1,0 +1,2 @@
+# File-Encryption-and-Decryption
+Encryption class made in java helps you encrypt a file. When you start the program for the first time default path location would be asked once, make sure to set it in a place convenient for you. While encrypting a file it keeps track of the file by the log filecount which is self generated and EncyptedFile_log which is the key to Decrypt the file. The Log number of the file would be asked to decrypt the file in a proper manner, else the decryption would be another encryption of its own.
